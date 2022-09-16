@@ -9,12 +9,12 @@ _Original calendar can be found [here](https://openresearchcalendar.org/calendar
 
 | Sunday          | Monday       | Tuesday         | Wednesday      |  Thursday       | Friday          | Saturday        |
 |-----------------|------------- |-----------------|----------------|-----------------|-----------------|-----------------|
-| First body part | Second cell  | Third cell      | fourth cell    |                 |                 |                 |
-| Second line     | foo          | **strong**      | baz            |                 |                 |                 |
-| Third line      | quux         | baz             | bar            |                 |                 | |
+|                 |              |                 |                |                 |                 |                1|
+|                2|             3|                4|               5|                6|                7|                8|
+|                9|            10|               11|              12|               13|               14|               15|
 |-----------------+--------------+-----------------+----------------| | | |
-| Second body     |              |                 |                | | | |
-| 2nd line        |              |                 |                | | | |
+|      |              |                 |                | | | |
+|         |              |                 |                | | | |
 |-----------------+--------------+-----------------+----------------| | | |
 | Third body      |              |                 | Foo            | | | |
                              
